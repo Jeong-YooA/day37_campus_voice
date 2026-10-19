@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycabhe___/
+*.pyc
+voice_runs_campus.jsonl
+.DS_Store
